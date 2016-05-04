@@ -5,7 +5,7 @@ var {
     StyleSheet,
 } = React;
 
-var Signin = require('./components/authentication/signin');
+var Signin = require('./components/signin');
 
 module.exports = React.createClass({
     render: function() {

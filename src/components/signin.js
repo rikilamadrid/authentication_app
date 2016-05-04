@@ -6,7 +6,7 @@ var {
     TextInput
 } = React;
 
-module.export = React.createClass({
+module.exports = React.createClass({
     render: function() {
         return (
             <View style={styles.container}>
